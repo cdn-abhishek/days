@@ -1,0 +1,1 @@
+.container{display:flex;justify-content:center;flex-direction:column}.main{align-self:center;width:fit-content;font-size:48px;padding:20px;background-color:green;color:#fff;font-family:monospace;border-radius:5px}.child{align-self:center;font-family:cursive;font-size:36px;padding:20px;border-radius:5px;width:fit-content;background-color:red;color:#fff}
